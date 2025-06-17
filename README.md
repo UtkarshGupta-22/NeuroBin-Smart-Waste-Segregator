@@ -22,8 +22,8 @@ This project demonstrates how the integration of machine learning with real-worl
 
 Video and image proof of the live system operation are provided in the `assets/` folder.
 
-- Video Demo: `assets/demo_video.mp4`
-- Smart Bin Image: `assets/bin_demo_image.jpg`
+- Video Demo: `assets/Demo_video.mp4`
+- Smart Bin Image: `assets/neurobin.jpg`
 
 ## Datasets Used
 
