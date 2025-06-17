@@ -1,0 +1,9 @@
+
+```txt
+tensorflow>=2.9.0
+numpy
+matplotlib
+opencv-python
+kagglehub
+scikit-learn
+seaborn
